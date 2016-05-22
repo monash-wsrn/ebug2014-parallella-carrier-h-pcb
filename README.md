@@ -1,2 +1,4 @@
-# ebug2014-parallella-carrier-h-pcb
-PCB design files for horizontal Parallella carrier board for the eBug 2014.
+ebug2014-parallella-carrier-h-pcb
+============
+- Created with Altium Designer
+- Open entire project via "eBug2014-Parallella-Carrier-H.DsnWrk"
