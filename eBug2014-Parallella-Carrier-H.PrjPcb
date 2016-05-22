@@ -56,23 +56,6 @@ GenerateClassCluster=0
 DocumentUniqueId=SPSILCLN
 
 [Document2]
-DocumentPath=PowerRegulation.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=WJNFCHDD
-
-[Document3]
 DocumentPath=PCB.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -89,7 +72,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YONVCGOI
 
-[Document4]
+[Document3]
 DocumentPath=Libraries\Linear Technology Power Management Switching Regulator LTC1174-LTC3901.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
