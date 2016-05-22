@@ -2,3 +2,5 @@
 Version=1.0
 [Project1]
 ProjectPath=eBug2014-Parallella-Carrier-H.PrjPcb
+[Project2]
+ProjectPath=Libraries\eBug2014-Parallella-Carrier-H\eBug2014-Parallella-Carrier-H.LibPkg
