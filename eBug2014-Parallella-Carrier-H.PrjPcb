@@ -123,6 +123,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[SearchPath1]
+Path=Footprints\PCBfootprints_290709\*.*
+IncludeSubFolders=1
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
