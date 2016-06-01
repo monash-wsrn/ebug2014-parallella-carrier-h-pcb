@@ -157,6 +157,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for eBug2014-Parallella-Carrier-H\Design Rule Check - PCB.html
+DItemRevisionGUID=
+
 [SearchPath1]
 Path=Footprints\PCBfootprints_290709\*.*
 IncludeSubFolders=1
